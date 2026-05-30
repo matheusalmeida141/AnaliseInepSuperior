@@ -1,4 +1,4 @@
-# Analise Estátistica dos dados do Inep do ensino superior.
+# Analise Estátistica e Fuzzy dos dados do Inep do ensino superior.
 Esse é um projeto de TCC do curso de Licenciatura de Matemática da UNESP do campus de Bauru.
 
 # Etapas
