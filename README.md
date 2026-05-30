@@ -4,6 +4,12 @@ Esse é um projeto de TCC do curso de Licenciatura de Matemática da UNESP do ca
 # Etapas
 - [x] Coletar dados do INEP;
 - [ ] Limpar dados brutos;
+  - [ ] Separar curso de licenciatura de matemática dos demais;
+  - [ ] Remover colunas não importantes;
+      -  Colunas:
+          - Cidade;
+          - 
+  - [ ] Separar estado de SP dos demais.
 - [ ] Estátistica Descritiva;
 - [ ] Estátistica Inferencial;
 - [ ] Modelagem Fuzzy;
