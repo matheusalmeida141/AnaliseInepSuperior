@@ -57,7 +57,7 @@ Esse é um projeto de TCC do curso de Licenciatura de Matemática da UNESP do ca
             QT_CONC_PROCNAOINFORMADA
 
       
-  - [ ] Separar estado de SP dos demais.
+  - [x] Separar estado de SP dos demais.
 - [ ] Estátistica Descritiva;
 - [ ] Estátistica Inferencial;
 - [ ] Modelagem Fuzzy;
